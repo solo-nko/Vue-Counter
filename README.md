@@ -10,6 +10,6 @@ To practice Vue and Typescript, specifically single-file components. And also be
 
 ## Tech used
 
-* Vue 3 with Vite
+* Vue 3 with Vite and Composition API
 * TypeScript
 * VS Code
